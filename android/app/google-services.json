@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52219746733",
+    "project_id": "compound-7196d",
+    "storage_bucket": "compound-7196d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52219746733:android:8d285ad7a59bb46e9fe924",
+        "android_client_info": {
+          "package_name": "com.filledstacks.compound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52219746733-tjs2kfoh3pg346mghlve714nmngb25kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCPGsTBIUlYJML8bAnnlxLUsWEriJob0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52219746733-tjs2kfoh3pg346mghlve714nmngb25kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
